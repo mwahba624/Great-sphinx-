@@ -38,6 +38,6 @@ THEN I am presented with a responsive layout that adapts to my viewport
 * I added some comments to both HTML and CSS. 
 
 ## Links
-[Link to Remote Repository]()
+[Link to Remote Repository](https://github.com/mwahba624/Great-sphinx-/tree/main)
 
-[Link to Portfolio]()
+[Link to Portfolio](https://mwahba624.github.io/Great-sphinx-/)
